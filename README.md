@@ -1,4 +1,4 @@
-# Tata Virtual Internship - Data Visualisation Empowering Business with Effective Insights
+# TATA Virtual Internship - Data Visualisation Empowering Business with Effective Insights
 
 ![image](https://github.com/amanjot-git/Tata_Virtual_Internship/assets/59747572/d77444c3-4fe0-4c88-9c12-027eaf3097e1)
  
