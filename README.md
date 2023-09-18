@@ -10,18 +10,18 @@ The program showcases the types of challenges that Tata Insights and Quants face
 
 # There are 4 modules in this virtual experience programme. 
 
-# ♦ Framing the Business Scenario
+ ♦ Framing the Business Scenario
 
-# ♦ Choosing the Right Visuals
+♦ Choosing the Right Visuals
 
-# ♦ Creating Effective Visuals
+♦ Creating Effective Visuals
 
-# ♦ Communicating Insights and Analysis
+♦ Communicating Insights and Analysis
 
 ** Task 1 - Framing the Business Scenario
 Learn how to anticipate the questions your business leaders will need answers to.
 
-__Background info and context
+** Background info and context
 
 An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
 
