@@ -19,7 +19,7 @@ The program showcases the types of challenges that Tata Insights and Quants face
 ♦ Communicating Insights and Analysis
 
 
-** Task 1 - Framing the Business Scenario
+# Task 1 - Framing the Business Scenario
 Learn how to anticipate the questions your business leaders will need answers to.
 
 ** Background info and context
