@@ -9,7 +9,7 @@ The program showcases the types of challenges that Tata Insights and Quants face
 
 ## There are 4 modules in this virtual experience programme. 
 
-#### ♦ Framing the Business Scenario
+**♦ Framing the Business Scenario**
 
 #### ♦ Choosing the Right Visuals
 
