@@ -29,15 +29,11 @@ The leadership is interested in viewing the metrics from both an operations and 
 
 A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
 
-Remember, thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
-
-Resources' links are given to better understand how business leaders think and approach business performance.
+Thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
 
 #### Details for task
 
-To prepare for your meeting, you need to draft questions that you think will be important and relevant to the CEO and CMO. This preparation will be your guide as you develop your presentation.
-
-For this task, you are only required to draft the questions. Make sure to think both quantitatively and qualitatively.
+To prepare for the meeting, questions that you think will be important and relevant to the CEO and CMO need to be drafted. Make sure to think both quantitatively and qualitatively.
 
 You’ve been provided a dataset in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
 
@@ -86,8 +82,6 @@ Before you can begin the analysis, make sure that the data is cleaned properly. 
 Please note that in order to apply the checks that have been mentioned above, you would need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from analysis. You can also use data transformation methods to get rid of the bad data. Both these methods are provided in the resources section. Once this is done, the data will be good to be used for further analysis. Please note that this data should be cleaned up before attempting any question.
 
 Create each visual on a separate tab with the name of the tab displaying the question number. Once the visuals are created, save the files and upload them below. For Tableau users, you would need to upload in .twbx format whereas Power BI files need to be saved in .pbix format. Instructions on how to save in these formats are provided in the resources section.
-
-#### Should you get stuck, please reference the Visuals Hints document in the resources.
 
 #### Question 1
 
