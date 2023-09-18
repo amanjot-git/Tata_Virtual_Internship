@@ -23,65 +23,45 @@ Learn how to anticipate the questions your business leaders will need answers to
 
 ####  Background info and context
 
-An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. The business has been performing well and the management wants to analyse what the major contributing factors are to the revenue so they can strategically plan for next year.
-
-The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
-
-A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to make the decision on expansion.
-
-Thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
+An online retail store has hired you as a consultant for analyzing data to provide insights for the CEO and CMO. They want to understand revenue factors for strategic planning. The focus is on operations and marketing metrics, as well as identifying high-performing areas. Demographic metrics are of interest too. You must prepare analytics and insights for an upcoming CEO and CMO meeting to evaluate performance and expansion decisions. Adopting a business leader's perspective is key to effective analysis and insights.
 
 #### Details for task
 
-To prepare for the meeting, questions that you think will be important and relevant to the CEO and CMO need to be drafted. Make sure to think both quantitatively and qualitatively.
-
-You’ve been provided a dataset in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
-
+Draft essential questions for CEO and CMO based on the dataset, considering both quantitative and qualitative aspects.
 Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
-
-Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
 ## Task 2 - Choosing the Right Visuals
 Learn which visuals are most effective in a given scenario
 
 #### Background info and context
 
-You have been asked by the CEO and CMO to provide visuals on the metrics that they wish to analyse for the online retail store. You will gather the requirements and provide them with the type of visual that would be best suited to the scenario. The senior management wants to understand how their business is performing and what areas are the key strengths of the company. They are also focused on identifying opportunities that would lead to growth and generate more revenue in the future.
-
-You will be provided multiple visualisation requests by the CEO and you would need to provide the visual which would explain the data and insights in the simplest possible manner. The visual should adequately convey the information that you are trying to present. This exercise is critical to the senior management as any incorrect representation can lead to a wrong message being conveyed, or a wrong decision taken by the management. Therefore, you would need to make sure that the correct visuals are used to represent each set of data.
+For the CEO and CMO, create visuals to analyze online retail store metrics. Gather requirements and select the best-suited visuals. Senior management seeks performance insights, key strengths, and growth opportunities. Ensure clear and accurate data representation to avoid misinterpretation or wrong decisions.
 
 #### Details for task
 
-In this task, you will be required to read the questions carefully and understand that business requirement. Once you have an idea of what is required from the perspective of the CEO and CMO, you will need to come up with the perfect visual which will illustrate what the senior managers are looking for in each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented.
-
-You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
-
-To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
+Select visuals for CEO and CMO requirements. Choose the most suitable chart type to represent each scenario. Remember, data can be presented in multiple types of charts, but you are required to select the visual that would best display the information which is being presented. Utilize provided resources for guidance on visual selection and chart options. Complete a 5-question multiple-choice quiz.
 
 ## Task 3 - Creating Effective Visuals
 Apply your under and create visuals based on business scenarios
 
 #### Background info and context
 
-The CEO and CMO have recently met to finalise the requirements and would like you to provide them with some analysis and visuals that would help answer their questions. Both, the executives are interested in viewing and understanding how they can use the data to make more meaningful decisions. You would need to provide insights which they can use to create the expansion strategy. The executives want to analyse the trends and the breakdown by different categories so that they have clarity on how the revenue is being generated and what are the main factors affecting the online store.
-
-You will be provided with the requirements of the executives and how they want to view the data. After the requirement gathering phase, you would need to make sure that the data you are using is of good quality and does not contain any bad data that would have an adverse impact on your analysis. Once the data is cleaned, the next step would be to create the visuals on either Tableau or Power BI. No matter which tool you choose for the visuals, the result should be the same. These results will help the executives with effective decision making and assist in their expansion strategy.
+The CEO and CMO seek data analysis and visuals for decision-making and expansion planning. They want insights into revenue trends and category breakdowns. After gathering requirements, ensure data quality, and create visuals in either Tableau or Power BI for effective decision support in the expansion strategy.
 
 #### Details for task
 
-In this task, you will create the visuals around four of the questions that the CEO and CMO have requested. You can use either Tableau or Power BI to create the visuals and we’ve provided the data in the resources below. Both Power BI and Tableau have free trials that can be accessed in order to complete this task. You can find a resource below that directs you how to download these free trials.
+In this task, you will create the visuals around four of the questions that the CEO and CMO have requested. You can use either Tableau or Power BI to create the visuals.
 
 #### Data cleanup
 
-Before you can begin the analysis, make sure that the data is cleaned properly. You have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. You will need to perform the following steps to clean this data.
+You have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. 
+Clean the data before analysis:
 
-• Create a check that the quantity should not be below 1 unit
+• Ensure quantity is not below 1 unit
 
-• Create a check that the Unit price should not be below $0
+• Verify the unit price is not below $0
 
-Please note that in order to apply the checks that have been mentioned above, you would need to use conditional formulas where the logic would state that if the conditions are met then the tool should exclude the data from analysis. You can also use data transformation methods to get rid of the bad data. Both these methods are provided in the resources section. Once this is done, the data will be good to be used for further analysis. Please note that this data should be cleaned up before attempting any question.
-
-Create each visual on a separate tab with the name of the tab displaying the question number. Once the visuals are created, save the files and upload them below. For Tableau users, you would need to upload in .twbx format whereas Power BI files need to be saved in .pbix format. Instructions on how to save in these formats are provided in the resources section.
+Use conditional formulas or data transformation methods to exclude bad data. Organize visuals on separate tabs, naming each after the question number. Save files in .twbx format for Tableau and .pbix format for Power BI. Clean data before addressing any questions.
 
 #### Question 1
 
@@ -104,18 +84,8 @@ Effectively communicate your findings and explain how it relates to each scenari
 
 #### Background info and context
 
-It’s time to present your findings to the CEO and CMO. They are interested in your thought process and how you have handled the data cleanup and visualisation phase. It is important to explain your thought process and ideas in a clear and straightforward way. You are also required to clearly present the analysis of all four questions from the previous task. Make sure you are well versed with the data and the conclusions you’ve made from your analysis.
-
-Expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business.
+Present findings to CEO and CMO. Explain data cleanup and visualization process clearly. Discuss analysis of all four previous questions. Expansion is top of mind for these leaders , so focus on identifying lucrative expansion opportunities.
 
 #### Details for task
 
-Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
-
-You can use your work or the model answer from the previous task to develop your presentation.
-
-When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
-
-Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
-
-Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
+Create a concise 5-minute video presentation for the CEO and CMO, based on the four questions and visuals from the previous tasks. Explain the entire process, including data loading and cleanup, to demonstrate diligence. Focus on the key information relevant to the leaders and provide context for each scenario in relation to their questions.
