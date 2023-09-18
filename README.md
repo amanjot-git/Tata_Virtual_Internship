@@ -8,7 +8,7 @@ Tata iQ and Tata Insights and Quants present an immersive virtual experience pro
 
 The program showcases the types of challenges that Tata Insights and Quants face on a daily basis, striving to simulate the difficulties individuals might encounter.
 
-There are 4 modules in this virtual experience programme.
+#There are 4 modules in this virtual experience programme.
 
 ♦ Framing the Business Scenario
 
