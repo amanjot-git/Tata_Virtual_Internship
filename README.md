@@ -1,10 +1,9 @@
 # Tata Virtual Internship - Data Visualisation Empowering Business with Effective Insights
 
 ![image](https://github.com/amanjot-git/Tata_Virtual_Internship/assets/59747572/d77444c3-4fe0-4c88-9c12-027eaf3097e1)
+ 
 
-
-
-Tata iQ and Tata Insights and Quants present an immersive virtual experience program. Within this program, I delve into the deep-seated enthusiasm and expertise of versatile professionals, leveraging the capabilities of data visualization tools like Tableau and Power BI. Together, they confront intricate business dilemmas and uncover enthralling insights concealed within extensive datasets.
+Tata iQ and Tata Insights and Quants present an immersive virtual experience program. Within this program, I delve into the deep-seated enthusiasm and expertise of versatile professionals, leveraging the capabilities of data visualization tools like Tableau and Power BI. Together, they confront complex business problems and uncover enthralling insights concealed within extensive datasets.
 
 The program showcases the types of challenges that Tata Insights and Quants face on a daily basis, striving to simulate the difficulties individuals might encounter.
 
@@ -32,7 +31,7 @@ A meeting with the CEO and CMO has been scheduled for next month and you need to
 
 Remember, thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
 
-Access the links in the resources below to better understand how business leaders think and approach business performance.
+Resources' links are given to better understand how business leaders think and approach business performance.
 
 #### Details for task
 
