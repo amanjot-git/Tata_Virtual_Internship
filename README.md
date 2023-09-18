@@ -11,11 +11,11 @@ The program showcases the types of challenges that Tata Insights and Quants face
 
 **♦ Framing the Business Scenario**
 
-#### ♦ Choosing the Right Visuals
+**♦ Choosing the Right Visuals**
 
-#### ♦ Creating Effective Visuals
+**♦ Creating Effective Visuals**
 
-#### ♦ Communicating Insights and Analysis
+**♦ Communicating Insights and Analysis**
 
 
 ## Task 1 - Framing the Business Scenario
