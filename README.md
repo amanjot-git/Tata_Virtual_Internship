@@ -89,4 +89,4 @@ Present findings to CEO and CMO. Explain data cleanup and visualization process 
 #### Details for task
 
 Create a concise 5-minute video presentation for the CEO and CMO, based on the four questions and visuals from the previous tasks. Explain the entire process, including data loading and cleanup, to demonstrate diligence. Focus on the key information relevant to the leaders and provide context for each scenario in relation to their questions.
-![image](https://github.com/amanjot-git/Tata_Virtual_Internship/assets/59747572/0bb0ecbb-e725-4e18-acdc-c62fd543c02e)
+
