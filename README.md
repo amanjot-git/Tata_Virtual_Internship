@@ -35,7 +35,7 @@ Learn which visuals are most effective in a given scenario
 
 #### Background info and context
 
-For the CEO and CMO, create visuals to analyze online retail store metrics. Gather requirements and select the best-suited visuals. Senior management seeks performance insights, key strengths, and growth opportunities. Ensure clear and accurate data representation to avoid misinterpretation or wrong decisions.
+For the CEO and CMO, create visuals to analyze **online retail store** metrics. Gather requirements and select the best-suited visuals. Senior management seeks performance insights, key strengths, and growth opportunities. Ensure clear and accurate data representation to avoid misinterpretation or wrong decisions.
 
 #### Details for task
 
